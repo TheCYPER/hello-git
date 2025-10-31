@@ -7,6 +7,6 @@ percy@PercydeMacBook-Pro ~/P/L/hello-git (main)> git log --oneline --graph --dec
 * dbeb799 add note.txt
 * f25657c Initial commit
 
-
-
-feuihuehih
+Summary
+* I do some things
+* feuihuehih
