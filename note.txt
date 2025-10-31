@@ -1,3 +1,9 @@
 123455
 hello git
 hello world
+
+percy@PercydeMacBook-Pro ~/P/L/hello-git (main)> git log --oneline --graph --decorate --all
+* 7bbc06d (HEAD -> main, origin/main, origin/HEAD) Add testing line to README
+* dbeb799 add note.txt
+* f25657c Initial commit
+
