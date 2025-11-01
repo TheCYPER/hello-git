@@ -4,6 +4,8 @@
 * 2025.10.31
 * A line added for testing pull
 ![greeting1](greeting1.png)
+* testing merging on local branch
 ![greeting2](greeting2.png)
+* merging from other contributer
 
-* I used Merge commit because in learning enironment I want to see more results
+* I used Merge commit because in learning enironment, I want to see more results. 
