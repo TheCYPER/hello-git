@@ -7,5 +7,6 @@
 * testing merging on local branch
 ![greeting2](greeting2.png)
 * merging from other contributer
+* https://github.com/TheCYPER/hello-git/pull/1
 
 * I used Merge commit because in learning enironment, I want to see more results. 
