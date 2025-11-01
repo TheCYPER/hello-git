@@ -3,3 +3,7 @@
 * for me to test git
 * 2025.10.31
 * A line added for testing pull
+![greeting1](greeting1.png)
+![greeting2](greeting2.png)
+
+* I used Merge commit because in learning enironment I want to see more results
